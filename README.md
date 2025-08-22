@@ -1,3 +1,13 @@
 # PROYECTO-05 Analizando comportamiento de empresa de telecomunicaciones
 
 Este proyecto analiza el comportamiento de 500 clientes de Megaline, un operador de telecomunicaciones, para determinar cuál de sus dos planes de prepago, Surf o Ultimate, genera más ingresos. El análisis incluye la preparación y limpieza de datos de llamadas, mensajes e internet, la agregación de uso mensual por usuario, el cálculo de los ingresos generados por cada cliente y la comparación de los ingresos promedio entre los dos planes mediante pruebas estadísticas. El objetivo final es recomendar el plan más rentable para ajustar el presupuesto de publicidad.
+
+
+Descripción: Limpieza y análisis para detectar patrones operativos y oportunidades de mejora.
+Tecnologías: Python, pandas, visualización, reporting.
+Instrucciones:
+Importar datos crudos.
+Correr pipeline de limpieza y EDA.
+Resultados:
+Tablas/figuras clave.
+Recomendaciones operativas.
